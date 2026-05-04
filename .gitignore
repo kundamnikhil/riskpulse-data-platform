@@ -1,0 +1,4 @@
+tmp/# Never commit real secrets
+k8s/secrets/git-secrets.yaml
+*.env
+.env
