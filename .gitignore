@@ -5,3 +5,4 @@ k8s/secrets/git-secrets.yaml
 tmp/
 streamlit_app/.streamlit/secrets.toml
 streamlit_app/.streamlit/
+streamlit_app/venv/
