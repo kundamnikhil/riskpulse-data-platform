@@ -1,4 +1,4 @@
-# Data Platform — Airflow 3.0 + Databricks + Kubernetes
+# RiskPulse Data Platform — Airflow 3.0 + Databricks + Kubernetes
 
 A production-style end-to-end data platform built from scratch.
 
